@@ -1,7 +1,7 @@
 ## Hi there 👋
 🏫 SJTU Undergraduate Majoring in Information Security since 2022
-
-🤖 Research Interest：Agentic AI/ LLM Security/ MLLM Reasoning Ability Enhancement, etc.
+🏫 SJTU Master of SCS since 2026
+🤖 Research Interest：Agentic AI/ LLM Security/ VLA/ MLLM Reasoning Ability Enhancement, etc.
 
 <!--
 **Arcs-ur/Arcs-ur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
