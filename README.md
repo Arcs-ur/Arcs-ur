@@ -1,6 +1,8 @@
 ## Hi there 👋
 🏫 SJTU Undergraduate Majoring in Information Security since 2022
+
 🏫 SJTU Master of SCS since 2026
+
 🤖 Research Interest：Agentic AI/ LLM Security/ VLA/ MLLM Reasoning Ability Enhancement, etc.
 
 <!--
