@@ -5,6 +5,7 @@
 
 🤖 Research Interest：Agentic AI/ LLM Security/ VLA/ MLLM Reasoning Ability Enhancement, etc.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcs-ur)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Arcs-ur/Arcs-ur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
