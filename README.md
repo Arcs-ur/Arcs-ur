@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Nan Chen.
 🏫 SJTU Undergraduate Majoring in Information Security since 2022
 
 🏫 SJTU Master Studying in LoCCS since 2026
