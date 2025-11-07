@@ -3,6 +3,8 @@
 
 🏫 SJTU Master Studying in LoCCS since 2026
 
+📑 Intern at Intel CCG from 25.4 to 25.11
+
 🤖 Research Interest：Agentic AI/ LLM Security/ VLA/ MLLM Reasoning Ability Enhancement, etc.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcs-ur)](https://github.com/anuraghazra/github-readme-stats)
