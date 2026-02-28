@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Nan Chen.
 🏫 SJTU Undergraduate Majoring in Information Security since 2022
 
-🏫 SJTU Master Studying in LoCCS since 2026
+🏫 Studying in LoCCS, SJTU since 2026
 
 📑 Intern at Intel CCG from 25.4 to 25.11
 
