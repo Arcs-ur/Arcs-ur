@@ -3,7 +3,7 @@
 
 🏫 Studying in LoCCS, SJTU since 2026
 
-📑 Intern at Intel CCG from 25.04 to 25.11 
+📑 Intern at Intel CCG&Path-finding from 25.04 to 25.11 
 
 📑 Intern at Microsoft Copilot from 26.04 to 26.07 
 
