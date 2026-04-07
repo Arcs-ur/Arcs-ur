@@ -5,7 +5,7 @@
 
 📑 Intern at **Intel CCG&Path-finding** from 25.04 to 25.11 
 
-📑 Intern at **Microsoft Copilot** from 26.04 to 26.07 
+📑 Intern at **Microsoft Copilot, MSAI** from 26.04 to 26.07 
 
 🤖 Research Interest：Agentic AI/ LLM Security/ VLA/ Reasoning Model, etc.
 
