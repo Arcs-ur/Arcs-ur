@@ -7,7 +7,7 @@
 
 📑 Intern at **Microsoft Copilot** from 26.04 to 26.07 
 
-🤖 Research Interest：Agentic AI/ LLM Security/ VLA/ MLLM Reasoning Ability Enhancement, etc.
+🤖 Research Interest：Agentic AI/ LLM Security/ VLA/ Reasoning Model, etc.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcs-ur)](https://github.com/anuraghazra/github-readme-stats)
 <!--
