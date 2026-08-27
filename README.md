@@ -3,6 +3,8 @@
 
 🏫 Studying in LoCCS, SJTU since 2026
 
+📑 Intern at **Bytedance Horizon RL Data** 
+
 📑 Intern at **Intel CCG&Path-finding** from 25.04 to 25.11 
 
 📑 Intern at **Microsoft Copilot, MSAI** from 26.04 to 26.07 
