@@ -9,4 +9,4 @@
 
 📑 Intern at **Microsoft Copilot, MSAI** 
 
-🤖 Research Interest：Agent Security/ WAM, etc.
+🤖 Research Interest：Agent Security/ Spatial Intelligence, etc.
