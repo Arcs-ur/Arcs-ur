@@ -3,7 +3,7 @@
 
 🏫 Studying in LoCCS, SJTU since 2026
 
-📑 Intern at **Bytedance Horizon RL Data** 
+📑 Intern at **Bytedance Seed Horizon RL Data** 
 
 📑 Intern at **Intel CCG&Path-finding** 
 
