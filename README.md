@@ -46,7 +46,7 @@ Worked with Chenxin An and Mingxuan Ying
 **Microsoft, STCA MSAI Core Science, Post-training of Reasoning Model & Benchmarking**  
 Worked with Haoyi Xiong and Bin Benjamin Zhu
 
-**Intel CCG Path-finding/IPEX-LLM & ML Solution**  
+**Intel, CCG Path-finding/IPEX-LLM & ML Solution**  
 Worked with Jason Dai
 
 ## Selected Honors
