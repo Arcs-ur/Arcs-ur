@@ -13,7 +13,7 @@ M.Sc. Student in School of Computer Science, Shanghai Jiao Tong University
 
 ## About Me
 
-I am an M.Sc. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181). I received my B.Eng. in School of Computer Science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+I am an M.Sc. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181). I received my B.Eng. in School of Computer Science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2026.
 
 --------
 
