@@ -33,13 +33,13 @@ ICLR 2026 · Core Contributor
 ## Experience
 
 **Bytedance, Seed Horizon RL Data, Coding agent**  
-Worked with Chenxin An and Mingxuan Ying
+Worked with [Chenxin An](https://chenxinan-fdu.github.io) and Mingxuan Ying
 
 **Microsoft, STCA MSAI Core Science, Post-training of Reasoning Model & Benchmarking**  
-Worked with Haoyi Xiong and Bin Benjamin Zhu
+Worked with [Haoyi Xiong](https://scholar.google.com/citations?user=f_Kcie0AAAAJ&hl=en) and [Bin Benjamin Zhu](https://scholar.google.com/citations?user=zyXRIGgAAAAJ&hl=en)
 
 **Intel, CCG Path-finding/IPEX-LLM & ML Solution**  
-Worked with Jason Dai
+Worked with [Jason Dai](https://www.linkedin.com/in/jasondai)
 
 ## Selected Honors
 - National Scholarship, 2025
