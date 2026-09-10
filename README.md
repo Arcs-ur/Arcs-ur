@@ -30,11 +30,11 @@ My research focuses on:
 
 First Author · Under Review
 
-SkillLadder: Multi-User Skill Evolution with Compliance-Oriented Synchronization and Quality-Gated Synthesis
+**SkillLadder: Multi-User Skill Evolution with Compliance-Oriented Synchronization and Quality-Gated Synthesis**
 
 EMNLP 2026 · First Author
 
-[CodeGenGuard: A Robust Watermark for Code Generation Models](https://iclr.cc/virtual/2026/poster/10009225)
+**[CodeGenGuard: A Robust Watermark for Code Generation Models](https://iclr.cc/virtual/2026/poster/10009225)**
 
 ICLR 2026 · Core Contributor
 
