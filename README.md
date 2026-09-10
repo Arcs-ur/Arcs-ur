@@ -5,9 +5,7 @@
 <h1 align="center">Nan Chen· 陈楠</h1>
 
 <p align="center">
-M.Sc. Student in <br>
-School of Computer Science, Shanghai Jiao Tong University
-</p>
+M.Sc. Student in School of Computer Science, Shanghai Jiao Tong University
 
 <p align="center">
 <a href="https://arcs-ur.github.io/">Homepage</a> · <a href="https://scholar.google.com/citations?user=0UDpZXsAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0002-2842-2259">ORCID</a> · <a href="mailto:arcs-ur@sjtu.edu.cn">Email</a>
@@ -15,7 +13,7 @@ School of Computer Science, Shanghai Jiao Tong University
 
 ## About Me
 
-I am an M.Sc. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181) in the Laboratory of Cryptography and Computer Security (LoCCS). I received my B.Eng. in School of Computer Science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+I am an M.Sc. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181). I received my B.Eng. in School of Computer Science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
 
 --------
 
