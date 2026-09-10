@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/lxmliu2002/lxmliu2002/main/avatar.jpg" width="120" />
 </p> -->
 
-<h1 align="center">Nan Chen· 陈楠</h1>
+<h1 align="center">Nan Chen 陈楠</h1>
 
 <p align="center">
 M.Sc. Student in School of Computer Science, Shanghai Jiao Tong University since 2026
