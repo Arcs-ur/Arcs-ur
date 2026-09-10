@@ -14,10 +14,7 @@ Undergraduate in School of Computer Science, Shanghai Jiao Tong University from 
 
 ## About Me
 
-My research focuses on:
-- Security of Agents
-- Post-training of coding agent
-- Spatial Intelligence
+My research focuses on: Security of Agents/ Post-training of coding agent/ Spatial Intelligence.
 
 ## Selected Publications
 
