@@ -12,9 +12,9 @@ Undergraduate in School of Computer Science, Shanghai Jiao Tong University from 
 <a href="https://arcs-ur.github.io/">Homepage</a> · <a href="https://scholar.google.com/citations?user=0UDpZXsAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0002-2842-2259">ORCID</a> · <a href="mailto:arcs-ur@sjtu.edu.cn">Email</a>
 </p>
 
-## About Me
+## Research Interests
 
-My research focuses on: Security of Agents/ Post-training of coding agent/ Spatial Intelligence.
+Security of Agents/ Post-training of coding agent/ Spatial Intelligence.
 
 ## Selected Publications
 
