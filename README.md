@@ -44,7 +44,7 @@ Worked with [Haoyi Xiong](https://scholar.google.com/citations?user=f_Kcie0AAAAJ
 Worked with [Jason Dai](https://www.linkedin.com/in/jasondai)
 
 ## Selected Honors
-- National Scholarship, 2025
+National Scholarship, 2025
 
 ## Open Resources
 
@@ -52,5 +52,4 @@ Worked with [Jason Dai](https://www.linkedin.com/in/jasondai)
 
 ## Contact
 
-- `arcs-ur [at] sjtu.edu.cn`
-- `arcs-ur [at] foxmail.com`
+`arcs-ur [at] sjtu.edu.cn` `arcs-ur [at] foxmail.com`
