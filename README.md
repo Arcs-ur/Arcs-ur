@@ -5,9 +5,11 @@
 <h1 align="center">Nan Chen 陈楠</h1>
 
 <p align="center">
-M.Sc. Student in School of Computer Science, Shanghai Jiao Tong University since 2026
+M.Sc. Student in School of Computer Science, <img src="assets/logos/sjtu.svg" width="20" height="20" alt="SJTU logo" align="absmiddle" /> Shanghai Jiao Tong University since 2026
+</p>
 <p align="center">
-Undergraduate in School of Computer Science, Shanghai Jiao Tong University from 2022 to 2026
+Undergraduate in School of Computer Science, <img src="assets/logos/sjtu.svg" width="20" height="20" alt="SJTU logo" align="absmiddle" /> Shanghai Jiao Tong University from 2022 to 2026
+</p>
 <p align="center">
 <a href="https://arcs-ur.github.io/">Homepage</a> · <a href="https://scholar.google.com/citations?user=0UDpZXsAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0002-2842-2259">ORCID</a> · <a href="mailto:arcs-ur@sjtu.edu.cn">Email</a>
 </p>
@@ -32,13 +34,13 @@ ICLR 2026 · Core Contributor
 
 ## Experience
 
-**Bytedance, Seed Horizon RL Data, Coding agent**  
+<img src="assets/logos/bytedance.svg" width="20" height="20" alt="Bytedance logo" align="absmiddle" /> **Bytedance, Seed Horizon RL Data, Coding agent**<br />
 Worked with [Chenxin An](https://chenxinan-fdu.github.io) and Mingxuan Ying
 
-**Microsoft, STCA MSAI Core Science, Post-training of Reasoning Model & Benchmarking**  
+<img src="assets/logos/microsoft.svg" width="20" height="20" alt="Microsoft logo" align="absmiddle" /> **Microsoft, STCA MSAI Core Science, Post-training of Reasoning Model & Benchmarking**<br />
 Worked with [Haoyi Xiong](https://scholar.google.com/citations?user=f_Kcie0AAAAJ&hl=en) and [Bin Benjamin Zhu](https://scholar.google.com/citations?user=zyXRIGgAAAAJ&hl=en)
 
-**Intel, CCG Path-finding/IPEX-LLM & ML Solution**  
+<img src="assets/logos/intel.svg" width="36" height="14" alt="Intel logo" align="absmiddle" /> **Intel, CCG Path-finding/IPEX-LLM & ML Solution**<br />
 Worked with [Jason Dai](https://www.linkedin.com/in/jasondai)
 
 ## Selected Honors
