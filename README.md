@@ -1,5 +1,5 @@
 <!-- <p align="center">
-<img src="https://github.com/Arcs-ur/Arcs-ur/blob/main/截屏2026-10-11%2000.13.29.png" width="120" />
+<img src="https://raw.githubusercontent.com/Arcs-ur/Arcs-ur/blob/main/截屏2026-10-11%2000.13.29.png" width="120" />
 </p> -->
 
 <h1 align="center">Nan Chen 陈楠</h1>
