@@ -1,5 +1,5 @@
 <!-- <p align="center">
-<img src="https://raw.githubusercontent.com/lxmliu2002/lxmliu2002/main/avatar.jpg" width="120" />
+<img src="https://github.com/Arcs-ur/Arcs-ur/blob/main/截屏2026-10-11%2000.13.29.png" width="120" />
 </p> -->
 
 <h1 align="center">Nan Chen 陈楠</h1>
@@ -20,9 +20,9 @@ Security of Agents/ Post-training of coding agent/ Spatial Intelligence.
 
 **They Signal, Yet They Obey: An Analysis of Adversarial Instruction Following in LLMs**
 
-First Author · Under Review
+Under Review · First Author
 
-**SkillLadder: Multi-User Skill Evolution with Compliance-Oriented Synchronization and Quality-Gated Synthesis**
+**[SkillLadder: Multi-User Skill Evolution with Compliance-Oriented Synchronization and Quality-Gated Synthesis](https://github.com/Arcs-ur/SkillLadder)**
 
 EMNLP 2026 · First Author
 
