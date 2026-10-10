@@ -1,6 +1,6 @@
-<!-- <p align="center">
-<img src="https://raw.githubusercontent.com/Arcs-ur/Arcs-ur/blob/main/截屏2026-10-11%2000.13.29.png" width="120" />
-</p> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Arcs-ur/Arcs-ur/2aab23b411a5b9b1a6f7c872aed39f7ddccbc472/avatar.png" width="120" />
+</p>
 
 <h1 align="center">Nan Chen 陈楠</h1>
 
