@@ -20,6 +20,10 @@ Agent Security / Coding Agent Post-training / Spatial Intelligence.
 
 ## Selected Publications
 
+**WildGEOBench: Tracing Generative Engine Optimization from Retrieval to Answer Support**
+
+Under Review · First Author
+
 **They Signal, Yet They Obey: An Analysis of Adversarial Instruction Following in LLMs**
 
 Under Review · First Author
