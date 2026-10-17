@@ -16,7 +16,7 @@ Undergraduate in School of Computer Science, <img src="assets/logos/sjtu.svg" wi
 
 ## Research Interests
 
-Agent Security / Coding Agent Post-training / Spatial Intelligence.
+Agent Security / Agent Post-training / Spatial Intelligence.
 
 ## Selected Publications
 
