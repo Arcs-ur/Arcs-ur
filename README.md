@@ -52,7 +52,7 @@ Worked with [Jason Dai](https://www.linkedin.com/in/jasondai)
 
 ## Open Resources
 
-[IPEX-LLM](https://github.com/intel/ipex-llm)
+<img src="assets/logos/intel.svg" width="36" height="14" alt="Intel logo" align="absmiddle" /> [IPEX-LLM](https://github.com/intel/ipex-llm)
 
 ## Contact
 
