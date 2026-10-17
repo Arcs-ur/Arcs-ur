@@ -4,6 +4,8 @@
 - `bytedance.svg`: https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/bytedance-color.svg
 - `microsoft.svg`: https://learn.microsoft.com/en-us/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg
 - `intel.svg`: https://www.intel.com/content/dam/logos/intel-header-logo.svg
+- `emnlp.svg`: https://2026.emnlp.org/assets/images/safari-pinned-tab.svg (trimmed empty margins; recolored to `#d12632`, matching the red in the official https://2026.emnlp.org/assets/images/logos/emnlp_2026_logo_v1.png).
+- `iclr.svg`: https://iclr.cc/static/core/img/iclr-navbar-logo.svg
 
 Logos identify their respective organizations; trademarks belong to their respective owners.
 

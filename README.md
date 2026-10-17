@@ -30,11 +30,11 @@ Under Review · First Author
 
 **[SkillLadder: Multi-User Skill Evolution with Compliance-Oriented Synchronization and Quality-Gated Synthesis](https://github.com/Arcs-ur/SkillLadder)**
 
-EMNLP 2026 · First Author
+<img src="assets/logos/emnlp.svg" width="30" height="20" alt="EMNLP logo" align="absmiddle" /> EMNLP 2026 · First Author
 
 **[CodeGenGuard: A Robust Watermark for Code Generation Models](https://iclr.cc/virtual/2026/poster/10009225)**
 
-ICLR 2026 · Core Contributor
+<img src="assets/logos/iclr.svg" width="24" height="20" alt="ICLR logo" align="absmiddle" /> ICLR 2026 · Core Contributor
 
 ## Experience
 
