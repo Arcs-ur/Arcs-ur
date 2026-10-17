@@ -48,11 +48,11 @@ Worked with [Haoyi Xiong](https://scholar.google.com/citations?user=f_Kcie0AAAAJ
 Worked with [Jason Dai](https://www.linkedin.com/in/jasondai)
 
 ## Selected Honors
-National Scholarship, 2025
+<img src="assets/logos/sjtu.svg" width="20" height="20" alt="SJTU logo" align="absmiddle" /> National Scholarship, 2025
 
 ## Open Resources
 
-- [IPEX-LLM](https://github.com/intel/ipex-llm)
+[IPEX-LLM](https://github.com/intel/ipex-llm)
 
 ## Contact
 
