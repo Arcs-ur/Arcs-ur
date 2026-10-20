@@ -20,7 +20,7 @@ Agent Security / Agent Post-training / Spatial Intelligence.
 
 ## Selected Publications
 
-**WildGEOBench: Tracing Generative Engine Optimization from Retrieval to Answer Support**
+**WildGEOBench: An Empirical Study of Generative Engine Optimization and Answer Integrity in AI Search**
 
 Under Review · First Author
 
